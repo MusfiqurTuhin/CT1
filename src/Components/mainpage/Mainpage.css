@@ -1,0 +1,26 @@
+.container{
+    height: auto;
+    border: 2px solid black;
+    width: 900px;
+    margin: 100px;
+    margin-left: 20%;
+}
+
+.subcon{
+    height: 200px;
+    width: 700px;
+    border: 2px solid black;
+    margin-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tideimg img{
+    height: 20px;
+    width: 30px;
+
+}
+.tideimg{
+    display: flex;
+    padding: 20px;
+    
+}
